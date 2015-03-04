@@ -13,7 +13,7 @@ Install via bower:
 bower install colorstyles
 ```
 
-### Using hte css
+### Using the css
 Simply include the files you want in the head of your html document
 
 ```html
@@ -24,6 +24,34 @@ or
 
 ```html
 <link rel="stylesheet" href="bower_components/colorstyles/dist/extendedColors.min.css">
+```
+
+### Use the colordefinitions
+
+#### Foreground
+
+Use the ```css fg-* ``` prefix to define foreground colors like ```css fg-white ```.
+
+#### Background
+
+Use the ```css bg-* ``` prefix to define background colors like ```css bg-white ```.
+
+#### Outlines
+
+Use the ```css ol-* ``` prefix to define outline colors like ```css ol-white ```.
+
+#### Borders
+
+Use the ```css bd-* ``` prefix to define border colors like ```css bd-white ```.
+
+#### ```css :hover ```, ```css :focus```, ```css :active```
+
+For foreground and borders you can define colors for pseudoclasses like ```css bg-hover-white ```
+
+### Example
+
+```html
+<div class="fg-white bg-blue bg-hover-darkBlue">White text with blue background. On hover the Background changes to dark blue.</div>
 ```
 
 # License
