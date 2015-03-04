@@ -4,6 +4,7 @@
   "authors": [
     "Dude9177 <dude9177@gmail.com>"
   ],
+  "main": ["dist/colors.min.css", "dist/extendedColors.min.css"],
   "description": "A bunch of color styles for foreground, background, outlines and borders including :active, :hover and :focus",
   "keywords": [
     "colors",
