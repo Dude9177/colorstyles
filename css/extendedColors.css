@@ -1,0 +1,1528 @@
+/*
+    Backgrounds
+*/
+.bg-cascade,
+.bg-hover-cascade:hover,
+.bg-active-cascade:active,
+.bg-focus-cascade:focus {
+  background: #95a5a6 !important;
+}
+.bg-lynch,
+.bg-hover-lynch:hover,
+.bg-active-lynch:active,
+.bg-focus-lynch:focus {
+  background: #6c7a89 !important;
+}
+.bg-edward,
+.bg-hover-edward:hover,
+.bg-active-edward:active,
+.bg-focus-edward:focus {
+  background: #abb7b7 !important;
+}
+.bg-gallery,
+.bg-hover-gallery:hover,
+.bg-active-gallery:active,
+.bg-focus-gallery:focus {
+  background: #eeeeee !important;
+}
+.bg-harborRat,
+.bg-hover-harborRat:hover,
+.bg-active-harborRat:active,
+.bg-focus-harborRat:focus {
+  background: #757d75 !important;
+}
+.bg-pumice,
+.bg-hover-pumice:hover,
+.bg-active-pumice:active,
+.bg-focus-pumice:focus {
+  background: #d2d7d3 !important;
+}
+.bg-porcelain,
+.bg-hover-porcelain:hover,
+.bg-active-porcelain:active,
+.bg-focus-porcelain:focus {
+  background: #ecf0f1 !important;
+}
+.bg-silverSand,
+.bg-hover-silverSand:hover,
+.bg-active-silverSand:active,
+.bg-focus-silverSand:focus {
+  background: #bdc3c7 !important;
+}
+.bg-cararra,
+.bg-hover-cararra:hover,
+.bg-active-cararra:active,
+.bg-focus-cararra:focus {
+  background: #f2f1ef !important;
+}
+.bg-silver,
+.bg-hover-silver:hover,
+.bg-active-silver:active,
+.bg-focus-silver:focus {
+  background: #bfbfbf !important;
+}
+.bg-lightningYellow,
+.bg-hover-lightningYellow:hover,
+.bg-active-lightningYellow:active,
+.bg-focus-lightningYellow:focus {
+  background: #f5ab35 !important;
+}
+.bg-amber,
+.bg-hover-amber:hover,
+.bg-active-amber:active,
+.bg-focus-amber:focus {
+  background: #ca6924 !important;
+}
+.bg-exstasy,
+.bg-hover-exstasy:hover,
+.bg-active-exstasy:active,
+.bg-focus-exstasy:focus {
+  background: #f9690e !important;
+}
+.bg-goldenFallenLeaves,
+.bg-hover-goldenFallenLeaves:hover,
+.bg-active-goldenFallenLeaves:active,
+.bg-focus-goldenFallenLeaves:focus {
+  background: #e29c45 !important;
+}
+.bg-floralLeafColored,
+.bg-hover-floralLeafColored:hover,
+.bg-active-floralLeafColored:active,
+.bg-focus-floralLeafColored:focus {
+  background: #ffb94e !important;
+}
+.bg-eggColored,
+.bg-hover-eggColored:hover,
+.bg-active-eggColored:active,
+.bg-focus-eggColored:focus {
+  background: #ffa631 !important;
+}
+.bg-cornColored,
+.bg-hover-cornColored:hover,
+.bg-active-cornColored:active,
+.bg-focus-cornColored:focus {
+  background: #faa945 !important;
+}
+.bg-gamboge,
+.bg-hover-gamboge:hover,
+.bg-active-gamboge:active,
+.bg-focus-gamboge:focus {
+  background: #ffb61e !important;
+}
+.bg-sumacDyed,
+.bg-hover-sumacDyed:hover,
+.bg-active-sumacDyed:active,
+.bg-focus-sumacDyed:focus {
+  background: #e08a1e !important;
+}
+.bg-brightGoldenYellow,
+.bg-hover-brightGoldenYellow:hover,
+.bg-active-brightGoldenYellow:active,
+.bg-focus-brightGoldenYellow:focus {
+  background: #ffa400 !important;
+}
+.bg-saffron,
+.bg-hover-saffron:hover,
+.bg-active-saffron:active,
+.bg-focus-saffron:focus {
+  background: #f4d03f !important;
+}
+.bg-creamCan,
+.bg-hover-creamCan:hover,
+.bg-active-creamCan:active,
+.bg-focus-creamCan:focus {
+  background: #f5d76e !important;
+}
+.bg-rapseedOilColored,
+.bg-hover-rapseedOilColored:hover,
+.bg-active-rapseedOilColored:active,
+.bg-focus-rapseedOilColored:focus {
+  background: #a17917 !important;
+}
+.bg-japaneseTriandaGrass,
+.bg-hover-japaneseTriandaGrass:hover,
+.bg-active-japaneseTriandaGrass:active,
+.bg-focus-japaneseTriandaGrass:focus {
+  background: #e2b13c !important;
+}
+.bg-ripeLemon,
+.bg-hover-ripeLemon:hover,
+.bg-active-ripeLemon:active,
+.bg-focus-ripeLemon:focus {
+  background: #f7ca18 !important;
+}
+.bg-amurCorkTree,
+.bg-hover-amurCorkTree:hover,
+.bg-active-amurCorkTree:active,
+.bg-focus-amurCorkTree:focus {
+  background: #f3c13a !important;
+}
+.bg-patriniaFlowers,
+.bg-hover-patriniaFlowers:hover,
+.bg-active-patriniaFlowers:active,
+.bg-focus-patriniaFlowers:focus {
+  background: #d9b611 !important;
+}
+.bg-oceanGreen,
+.bg-hover-oceanGreen:hover,
+.bg-active-oceanGreen:active,
+.bg-focus-oceanGreen:focus {
+  background: #4daf7c !important;
+}
+.bg-freeSpeechAquamarine,
+.bg-hover-freeSpeechAquamarine:hover,
+.bg-active-freeSpeechAquamarine:active,
+.bg-focus-freeSpeechAquamarine:focus {
+  background: #03a678 !important;
+}
+.bg-turquoise,
+.bg-hover-turquoise:hover,
+.bg-active-turquoise:active,
+.bg-focus-turquoise:focus {
+  background: #36d7b7 !important;
+}
+.bg-mountainMadow,
+.bg-hover-mountainMadow:hover,
+.bg-active-mountainMadow:active,
+.bg-focus-mountainMadow:focus {
+  background: #16a085 !important;
+}
+.bg-jungleGreen,
+.bg-hover-jungleGreen:hover,
+.bg-active-jungleGreen:active,
+.bg-focus-jungleGreen:focus {
+  background: #2abb9b !important;
+}
+.bg-bservatory,
+.bg-hover-bservatory:hover,
+.bg-active-bservatory:active,
+.bg-focus-bservatory:focus {
+  background: #049372 !important;
+}
+.bg-jungleGreen,
+.bg-hover-jungleGreen:hover,
+.bg-active-jungleGreen:active,
+.bg-focus-jungleGreen:focus {
+  background: #2abb9b !important;
+}
+.bg-eucalyptus,
+.bg-hover-eucalyptus:hover,
+.bg-active-eucalyptus:active,
+.bg-focus-eucalyptus:focus {
+  background: #26a65b !important;
+}
+.bg-gossip,
+.bg-hover-gossip:hover,
+.bg-active-gossip:active,
+.bg-focus-gossip:focus {
+  background: #87d37c !important;
+}
+.bg-greenBabmoo,
+.bg-hover-greenBabmoo:hover,
+.bg-active-greenBabmoo:active,
+.bg-focus-greenBabmoo:focus {
+  background: #006442 !important;
+}
+.bg-patina,
+.bg-hover-patina:hover,
+.bg-active-patina:active,
+.bg-focus-patina:focus {
+  background: #407a52 !important;
+}
+.bg-youngBambooColor,
+.bg-hover-youngBambooColor:hover,
+.bg-active-youngBambooColor:active,
+.bg-focus-youngBambooColor:focus {
+  background: #6b9362 !important;
+}
+.bg-freshOnion,
+.bg-hover-freshOnion:hover,
+.bg-active-freshOnion:active,
+.bg-focus-freshOnion:focus {
+  background: #5b8930 !important;
+}
+.bg-youngGreenOnion,
+.bg-hover-youngGreenOnion:hover,
+.bg-active-youngGreenOnion:active,
+.bg-focus-youngGreenOnion:focus {
+  background: #8db255 !important;
+}
+.bg-siskinSproutYellow,
+.bg-hover-siskinSproutYellow:hover,
+.bg-active-siskinSproutYellow:active,
+.bg-focus-siskinSproutYellow:focus {
+  background: #7a942e !important;
+}
+.bg-indigoColor,
+.bg-hover-indigoColor:hover,
+.bg-active-indigoColor:active,
+.bg-focus-indigoColor:focus {
+  background: #264348 !important;
+}
+.bg-hanada,
+.bg-hover-hanada:hover,
+.bg-active-hanada:active,
+.bg-focus-hanada:focus {
+  background: #044f67 !important;
+}
+.bg-naviBlueColor,
+.bg-hover-naviBlueColor:hover,
+.bg-active-naviBlueColor:active,
+.bg-focus-naviBlueColor:focus {
+  background: #003171 !important;
+}
+.bg-lapisLazuliColor,
+.bg-hover-lapisLazuliColor:hover,
+.bg-active-lapisLazuliColor:active,
+.bg-focus-lapisLazuliColor:focus {
+  background: #1f4788 !important;
+}
+.bg-steelBlue,
+.bg-hover-steelBlue:hover,
+.bg-active-steelBlue:active,
+.bg-focus-steelBlue:focus {
+  background: #4b77be !important;
+}
+.bg-jordyBlue,
+.bg-hover-jordyBlue:hover,
+.bg-active-jordyBlue:active,
+.bg-focus-jordyBlue:focus {
+  background: #89c4f4 !important;
+}
+.bg-thousandHerb,
+.bg-hover-thousandHerb:hover,
+.bg-active-thousandHerb:active,
+.bg-focus-thousandHerb:focus {
+  background: #317589 !important;
+}
+.bg-lightBlueColor,
+.bg-hover-lightBlueColor:hover,
+.bg-active-lightBlueColor:active,
+.bg-focus-lightBlueColor:focus {
+  background: #48929b !important;
+}
+.bg-pictonBlueDarker,
+.bg-hover-pictonBlueDarker:hover,
+.bg-active-pictonBlueDarker:active,
+.bg-focus-pictonBlueDarker:focus {
+  background: #59abe3 !important;
+}
+.bg-dodgerBlue,
+.bg-hover-dodgerBlue:hover,
+.bg-active-dodgerBlue:active,
+.bg-focus-dodgerBlue:focus {
+  background: #19b5fe !important;
+}
+.bg-pictonBlue,
+.bg-hover-pictonBlue:hover,
+.bg-active-pictonBlue:active,
+.bg-focus-pictonBlue:focus {
+  background: #22a7f0 !important;
+}
+.bg-ultramarineColor,
+.bg-hover-ultramarineColor:hover,
+.bg-active-ultramarineColor:active,
+.bg-focus-ultramarineColor:focus {
+  background: #5d8cae !important;
+}
+.bg-skyColor,
+.bg-hover-skyColor:hover,
+.bg-active-skyColor:active,
+.bg-focus-skyColor:focus {
+  background: #4d8fac !important;
+}
+.bg-lightWisteria,
+.bg-hover-lightWisteria:hover,
+.bg-active-lightWisteria:active,
+.bg-focus-lightWisteria:focus {
+  background: #be90d4 !important;
+}
+.bg-wisteria,
+.bg-hover-wisteria:hover,
+.bg-active-wisteria:active,
+.bg-focus-wisteria:focus {
+  background: #9b59b6 !important;
+}
+.bg-studio,
+.bg-hover-studio:hover,
+.bg-active-studio:active,
+.bg-focus-studio:focus {
+  background: #8e44ad !important;
+}
+.bg-mediumPurple,
+.bg-hover-mediumPurple:hover,
+.bg-active-mediumPurple:active,
+.bg-focus-mediumPurple:focus {
+  background: #bf55ec !important;
+}
+.bg-violetColor,
+.bg-hover-violetColor:hover,
+.bg-active-violetColor:active,
+.bg-focus-violetColor:focus {
+  background: #5b3256 !important;
+}
+.bg-thinColor,
+.bg-hover-thinColor:hover,
+.bg-active-thinColor:active,
+.bg-focus-thinColor:focus {
+  background: #a87ca0 !important;
+}
+.bg-tatarianAsterColor,
+.bg-hover-tatarianAsterColor:hover,
+.bg-active-tatarianAsterColor:active,
+.bg-focus-tatarianAsterColor:focus {
+  background: #8d608c !important;
+}
+.bg-irisColor,
+.bg-hover-irisColor:hover,
+.bg-active-irisColor:active,
+.bg-focus-irisColor:focus {
+  background: #763568 !important;
+}
+.bg-wisteriaColor,
+.bg-hover-wisteriaColor:hover,
+.bg-active-wisteriaColor:active,
+.bg-focus-wisteriaColor:focus {
+  background: #89729e !important;
+}
+.bg-bellflowerColor,
+.bg-hover-bellflowerColor:hover,
+.bg-active-bellflowerColor:active,
+.bg-focus-bellflowerColor:focus {
+  background: #5d3f6a !important;
+}
+.bg-wisteriaPurple,
+.bg-hover-wisteriaPurple:hover,
+.bg-active-wisteriaPurple:active,
+.bg-focus-wisteriaPurple:focus {
+  background: #875f9a !important;
+}
+.bg-ibisWingColor,
+.bg-hover-ibisWingColor:hover,
+.bg-active-ibisWingColor:active,
+.bg-focus-ibisWingColor:focus {
+  background: #f58f84 !important;
+}
+.bg-radicalRed,
+.bg-hover-radicalRed:hover,
+.bg-active-radicalRed:active,
+.bg-focus-radicalRed:focus {
+  background: #f62459 !important;
+}
+.bg-washedOutCrimson,
+.bg-hover-washedOutCrimson:hover,
+.bg-active-washedOutCrimson:active,
+.bg-focus-washedOutCrimson:focus {
+  background: #ffb3a7 !important;
+}
+.bg-cherryBlossomColor,
+.bg-hover-cherryBlossomColor:hover,
+.bg-active-cherryBlossomColor:active,
+.bg-focus-cherryBlossomColor:focus {
+  background: #fcc9b9 !important;
+}
+.bg-mediumCrimson,
+.bg-hover-mediumCrimson:hover,
+.bg-active-mediumCrimson:active,
+.bg-focus-mediumCrimson:focus {
+  background: #c93756 !important;
+}
+.bg-redPlumColored,
+.bg-hover-redPlumColored:hover,
+.bg-active-redPlumColored:active,
+.bg-focus-redPlumColored:focus {
+  background: #db5a6b !important;
+}
+.bg-peachColored,
+.bg-hover-peachColored:hover,
+.bg-active-peachColored:active,
+.bg-focus-peachColored:focus {
+  background: #f47983 !important;
+}
+.bg-oneKinDye,
+.bg-hover-oneKinDye:hover,
+.bg-active-oneKinDye:active,
+.bg-focus-oneKinDye:focus {
+  background: #f08f90 !important;
+}
+.bg-chestnutRose,
+.bg-hover-chestnutRose:hover,
+.bg-active-chestnutRose:active,
+.bg-focus-chestnutRose:focus {
+  background: #d24d57 !important;
+}
+.bg-trueRed,
+.bg-hover-trueRed:hover,
+.bg-active-trueRed:active,
+.bg-focus-trueRed:focus {
+  background: #8f1d21 !important;
+}
+.bg-pureCrimson,
+.bg-hover-pureCrimson:hover,
+.bg-active-pureCrimson:active,
+.bg-focus-pureCrimson:focus {
+  background: #c3272b !important;
+}
+.bg-scarlet,
+.bg-hover-scarlet:hover,
+.bg-active-scarlet:active,
+.bg-focus-scarlet:focus {
+  background: #cf3a24 !important;
+}
+.bg-pomegranate,
+.bg-hover-pomegranate:hover,
+.bg-active-pomegranate:active,
+.bg-focus-pomegranate:focus {
+  background: #f22613 !important;
+}
+.bg-brewedMustardBrown,
+.bg-hover-brewedMustardBrown:hover,
+.bg-active-brewedMustardBrown:active,
+.bg-focus-brewedMustardBrown:focus {
+  background: #e68364 !important;
+}
+.bg-monza,
+.bg-hover-monza:hover,
+.bg-active-monza:active,
+.bg-focus-monza:focus {
+  background: #cf000f !important;
+}
+.bg-cochinelRed,
+.bg-hover-cochinelRed:hover,
+.bg-active-cochinelRed:active,
+.bg-focus-cochinelRed:focus {
+  background: #9d2933 !important;
+}
+.bg-redOrgange,
+.bg-hover-redOrgange:hover,
+.bg-active-redOrgange:active,
+.bg-focus-redOrgange:focus {
+  background: #dc3023 !important;
+}
+.bg-foreignCrimson,
+.bg-hover-foreignCrimson:hover,
+.bg-active-foreignCrimson:active,
+.bg-focus-foreignCrimson:focus {
+  background: #c91f37 !important;
+}
+/*
+    Foreground
+*/
+.fg-cascade,
+.fg-hover-cascade:hover,
+.fg-active-cascade:active,
+.fg-focus-cascade:focus {
+  color: #95a5a6 !important;
+}
+.fg-lynch,
+.fg-hover-lynch:hover,
+.fg-active-lynch:active,
+.fg-focus-lynch:focus {
+  color: #6c7a89 !important;
+}
+.fg-edward,
+.fg-hover-edward:hover,
+.fg-active-edward:active,
+.fg-focus-edward:focus {
+  color: #abb7b7 !important;
+}
+.fg-gallery,
+.fg-hover-gallery:hover,
+.fg-active-gallery:active,
+.fg-focus-gallery:focus {
+  color: #eeeeee !important;
+}
+.fg-harborRat,
+.fg-hover-harborRat:hover,
+.fg-active-harborRat:active,
+.fg-focus-harborRat:focus {
+  color: #757d75 !important;
+}
+.fg-pumice,
+.fg-hover-pumice:hover,
+.fg-active-pumice:active,
+.fg-focus-pumice:focus {
+  color: #d2d7d3 !important;
+}
+.fg-porcelain,
+.fg-hover-porcelain:hover,
+.fg-active-porcelain:active,
+.fg-focus-porcelain:focus {
+  color: #ecf0f1 !important;
+}
+.fg-silverSand,
+.fg-hover-silverSand:hover,
+.fg-active-silverSand:active,
+.fg-focus-silverSand:focus {
+  color: #bdc3c7 !important;
+}
+.fg-cararra,
+.fg-hover-cararra:hover,
+.fg-active-cararra:active,
+.fg-focus-cararra:focus {
+  color: #f2f1ef !important;
+}
+.fg-silver,
+.fg-hover-silver:hover,
+.fg-active-silver:active,
+.fg-focus-silver:focus {
+  color: #bfbfbf !important;
+}
+.fg-lightningYellow,
+.fg-hover-lightningYellow:hover,
+.fg-active-lightningYellow:active,
+.fg-focus-lightningYellow:focus {
+  color: #f5ab35 !important;
+}
+.fg-amber,
+.fg-hover-amber:hover,
+.fg-active-amber:active,
+.fg-focus-amber:focus {
+  color: #ca6924 !important;
+}
+.fg-exstasy,
+.fg-hover-exstasy:hover,
+.fg-active-exstasy:active,
+.fg-focus-exstasy:focus {
+  color: #f9690e !important;
+}
+.fg-goldenFallenLeaves,
+.fg-hover-goldenFallenLeaves:hover,
+.fg-active-goldenFallenLeaves:active,
+.fg-focus-goldenFallenLeaves:focus {
+  color: #e29c45 !important;
+}
+.fg-floralLeafColored,
+.fg-hover-floralLeafColored:hover,
+.fg-active-floralLeafColored:active,
+.fg-focus-floralLeafColored:focus {
+  color: #ffb94e !important;
+}
+.fg-eggColored,
+.fg-hover-eggColored:hover,
+.fg-active-eggColored:active,
+.fg-focus-eggColored:focus {
+  color: #ffa631 !important;
+}
+.fg-cornColored,
+.fg-hover-cornColored:hover,
+.fg-active-cornColored:active,
+.fg-focus-cornColored:focus {
+  color: #faa945 !important;
+}
+.fg-gamboge,
+.fg-hover-gamboge:hover,
+.fg-active-gamboge:active,
+.fg-focus-gamboge:focus {
+  color: #ffb61e !important;
+}
+.fg-sumacDyed,
+.fg-hover-sumacDyed:hover,
+.fg-active-sumacDyed:active,
+.fg-focus-sumacDyed:focus {
+  color: #e08a1e !important;
+}
+.fg-brightGoldenYellow,
+.fg-hover-brightGoldenYellow:hover,
+.fg-active-brightGoldenYellow:active,
+.fg-focus-brightGoldenYellow:focus {
+  color: #ffa400 !important;
+}
+.fg-saffron,
+.fg-hover-saffron:hover,
+.fg-active-saffron:active,
+.fg-focus-saffron:focus {
+  color: #f4d03f !important;
+}
+.fg-creamCan,
+.fg-hover-creamCan:hover,
+.fg-active-creamCan:active,
+.fg-focus-creamCan:focus {
+  color: #f5d76e !important;
+}
+.fg-rapseedOilColored,
+.fg-hover-rapseedOilColored:hover,
+.fg-active-rapseedOilColored:active,
+.fg-focus-rapseedOilColored:focus {
+  color: #a17917 !important;
+}
+.fg-japaneseTriandaGrass,
+.fg-hover-japaneseTriandaGrass:hover,
+.fg-active-japaneseTriandaGrass:active,
+.fg-focus-japaneseTriandaGrass:focus {
+  color: #e2b13c !important;
+}
+.fg-ripeLemon,
+.fg-hover-ripeLemon:hover,
+.fg-active-ripeLemon:active,
+.fg-focus-ripeLemon:focus {
+  color: #f7ca18 !important;
+}
+.fg-amurCorkTree,
+.fg-hover-amurCorkTree:hover,
+.fg-active-amurCorkTree:active,
+.fg-focus-amurCorkTree:focus {
+  color: #f3c13a !important;
+}
+.fg-patriniaFlowers,
+.fg-hover-patriniaFlowers:hover,
+.fg-active-patriniaFlowers:active,
+.fg-focus-patriniaFlowers:focus {
+  color: #d9b611 !important;
+}
+.fg-oceanGreen,
+.fg-hover-oceanGreen:hover,
+.fg-active-oceanGreen:active,
+.fg-focus-oceanGreen:focus {
+  color: #4daf7c !important;
+}
+.fg-freeSpeechAquamarine,
+.fg-hover-freeSpeechAquamarine:hover,
+.fg-active-freeSpeechAquamarine:active,
+.fg-focus-freeSpeechAquamarine:focus {
+  color: #03a678 !important;
+}
+.fg-turquoise,
+.fg-hover-turquoise:hover,
+.fg-active-turquoise:active,
+.fg-focus-turquoise:focus {
+  color: #36d7b7 !important;
+}
+.fg-mountainMadow,
+.fg-hover-mountainMadow:hover,
+.fg-active-mountainMadow:active,
+.fg-focus-mountainMadow:focus {
+  color: #16a085 !important;
+}
+.fg-jungleGreen,
+.fg-hover-jungleGreen:hover,
+.fg-active-jungleGreen:active,
+.fg-focus-jungleGreen:focus {
+  color: #2abb9b !important;
+}
+.fg-bservatory,
+.fg-hover-bservatory:hover,
+.fg-active-bservatory:active,
+.fg-focus-bservatory:focus {
+  color: #049372 !important;
+}
+.fg-jungleGreen,
+.fg-hover-jungleGreen:hover,
+.fg-active-jungleGreen:active,
+.fg-focus-jungleGreen:focus {
+  color: #2abb9b !important;
+}
+.fg-eucalyptus,
+.fg-hover-eucalyptus:hover,
+.fg-active-eucalyptus:active,
+.fg-focus-eucalyptus:focus {
+  color: #26a65b !important;
+}
+.fg-gossip,
+.fg-hover-gossip:hover,
+.fg-active-gossip:active,
+.fg-focus-gossip:focus {
+  color: #87d37c !important;
+}
+.fg-greenBabmoo,
+.fg-hover-greenBabmoo:hover,
+.fg-active-greenBabmoo:active,
+.fg-focus-greenBabmoo:focus {
+  color: #006442 !important;
+}
+.fg-patina,
+.fg-hover-patina:hover,
+.fg-active-patina:active,
+.fg-focus-patina:focus {
+  color: #407a52 !important;
+}
+.fg-youngBambooColor,
+.fg-hover-youngBambooColor:hover,
+.fg-active-youngBambooColor:active,
+.fg-focus-youngBambooColor:focus {
+  color: #6b9362 !important;
+}
+.fg-freshOnion,
+.fg-hover-freshOnion:hover,
+.fg-active-freshOnion:active,
+.fg-focus-freshOnion:focus {
+  color: #5b8930 !important;
+}
+.fg-youngGreenOnion,
+.fg-hover-youngGreenOnion:hover,
+.fg-active-youngGreenOnion:active,
+.fg-focus-youngGreenOnion:focus {
+  color: #8db255 !important;
+}
+.fg-siskinSproutYellow,
+.fg-hover-siskinSproutYellow:hover,
+.fg-active-siskinSproutYellow:active,
+.fg-focus-siskinSproutYellow:focus {
+  color: #7a942e !important;
+}
+.fg-indigoColor,
+.fg-hover-indigoColor:hover,
+.fg-active-indigoColor:active,
+.fg-focus-indigoColor:focus {
+  color: #264348 !important;
+}
+.fg-hanada,
+.fg-hover-hanada:hover,
+.fg-active-hanada:active,
+.fg-focus-hanada:focus {
+  color: #044f67 !important;
+}
+.fg-naviBlueColor,
+.fg-hover-naviBlueColor:hover,
+.fg-active-naviBlueColor:active,
+.fg-focus-naviBlueColor:focus {
+  color: #003171 !important;
+}
+.fg-lapisLazuliColor,
+.fg-hover-lapisLazuliColor:hover,
+.fg-active-lapisLazuliColor:active,
+.fg-focus-lapisLazuliColor:focus {
+  color: #1f4788 !important;
+}
+.fg-steelBlue,
+.fg-hover-steelBlue:hover,
+.fg-active-steelBlue:active,
+.fg-focus-steelBlue:focus {
+  color: #4b77be !important;
+}
+.fg-jordyBlue,
+.fg-hover-jordyBlue:hover,
+.fg-active-jordyBlue:active,
+.fg-focus-jordyBlue:focus {
+  color: #89c4f4 !important;
+}
+.fg-thousandHerb,
+.fg-hover-thousandHerb:hover,
+.fg-active-thousandHerb:active,
+.fg-focus-thousandHerb:focus {
+  color: #317589 !important;
+}
+.fg-lightBlueColor,
+.fg-hover-lightBlueColor:hover,
+.fg-active-lightBlueColor:active,
+.fg-focus-lightBlueColor:focus {
+  color: #48929b !important;
+}
+.fg-pictonBlueDarker,
+.fg-hover-pictonBlueDarker:hover,
+.fg-active-pictonBlueDarker:active,
+.fg-focus-pictonBlueDarker:focus {
+  color: #59abe3 !important;
+}
+.fg-dodgerBlue,
+.fg-hover-dodgerBlue:hover,
+.fg-active-dodgerBlue:active,
+.fg-focus-dodgerBlue:focus {
+  color: #19b5fe !important;
+}
+.fg-pictonBlue,
+.fg-hover-pictonBlue:hover,
+.fg-active-pictonBlue:active,
+.fg-focus-pictonBlue:focus {
+  color: #22a7f0 !important;
+}
+.fg-ultramarineColor,
+.fg-hover-ultramarineColor:hover,
+.fg-active-ultramarineColor:active,
+.fg-focus-ultramarineColor:focus {
+  color: #5d8cae !important;
+}
+.fg-skyColor,
+.fg-hover-skyColor:hover,
+.fg-active-skyColor:active,
+.fg-focus-skyColor:focus {
+  color: #4d8fac !important;
+}
+.fg-lightWisteria,
+.fg-hover-lightWisteria:hover,
+.fg-active-lightWisteria:active,
+.fg-focus-lightWisteria:focus {
+  color: #be90d4 !important;
+}
+.fg-wisteria,
+.fg-hover-wisteria:hover,
+.fg-active-wisteria:active,
+.fg-focus-wisteria:focus {
+  color: #9b59b6 !important;
+}
+.fg-studio,
+.fg-hover-studio:hover,
+.fg-active-studio:active,
+.fg-focus-studio:focus {
+  color: #8e44ad !important;
+}
+.fg-mediumPurple,
+.fg-hover-mediumPurple:hover,
+.fg-active-mediumPurple:active,
+.fg-focus-mediumPurple:focus {
+  color: #bf55ec !important;
+}
+.fg-violetColor,
+.fg-hover-violetColor:hover,
+.fg-active-violetColor:active,
+.fg-focus-violetColor:focus {
+  color: #5b3256 !important;
+}
+.fg-thinColor,
+.fg-hover-thinColor:hover,
+.fg-active-thinColor:active,
+.fg-focus-thinColor:focus {
+  color: #a87ca0 !important;
+}
+.fg-tatarianAsterColor,
+.fg-hover-tatarianAsterColor:hover,
+.fg-active-tatarianAsterColor:active,
+.fg-focus-tatarianAsterColor:focus {
+  color: #8d608c !important;
+}
+.fg-irisColor,
+.fg-hover-irisColor:hover,
+.fg-active-irisColor:active,
+.fg-focus-irisColor:focus {
+  color: #763568 !important;
+}
+.fg-wisteriaColor,
+.fg-hover-wisteriaColor:hover,
+.fg-active-wisteriaColor:active,
+.fg-focus-wisteriaColor:focus {
+  color: #89729e !important;
+}
+.fg-bellflowerColor,
+.fg-hover-bellflowerColor:hover,
+.fg-active-bellflowerColor:active,
+.fg-focus-bellflowerColor:focus {
+  color: #5d3f6a !important;
+}
+.fg-wisteriaPurple,
+.fg-hover-wisteriaPurple:hover,
+.fg-active-wisteriaPurple:active,
+.fg-focus-wisteriaPurple:focus {
+  color: #875f9a !important;
+}
+.fg-ibisWingColor,
+.fg-hover-ibisWingColor:hover,
+.fg-active-ibisWingColor:active,
+.fg-focus-ibisWingColor:focus {
+  color: #f58f84 !important;
+}
+.fg-radicalRed,
+.fg-hover-radicalRed:hover,
+.fg-active-radicalRed:active,
+.fg-focus-radicalRed:focus {
+  color: #f62459 !important;
+}
+.fg-washedOutCrimson,
+.fg-hover-washedOutCrimson:hover,
+.fg-active-washedOutCrimson:active,
+.fg-focus-washedOutCrimson:focus {
+  color: #ffb3a7 !important;
+}
+.fg-cherryBlossomColor,
+.fg-hover-cherryBlossomColor:hover,
+.fg-active-cherryBlossomColor:active,
+.fg-focus-cherryBlossomColor:focus {
+  color: #fcc9b9 !important;
+}
+.fg-mediumCrimson,
+.fg-hover-mediumCrimson:hover,
+.fg-active-mediumCrimson:active,
+.fg-focus-mediumCrimson:focus {
+  color: #c93756 !important;
+}
+.fg-redPlumColored,
+.fg-hover-redPlumColored:hover,
+.fg-active-redPlumColored:active,
+.fg-focus-redPlumColored:focus {
+  color: #db5a6b !important;
+}
+.fg-peachColored,
+.fg-hover-peachColored:hover,
+.fg-active-peachColored:active,
+.fg-focus-peachColored:focus {
+  color: #f47983 !important;
+}
+.fg-oneKinDye,
+.fg-hover-oneKinDye:hover,
+.fg-active-oneKinDye:active,
+.fg-focus-oneKinDye:focus {
+  color: #f08f90 !important;
+}
+.fg-chestnutRose,
+.fg-hover-chestnutRose:hover,
+.fg-active-chestnutRose:active,
+.fg-focus-chestnutRose:focus {
+  color: #d24d57 !important;
+}
+.fg-trueRed,
+.fg-hover-trueRed:hover,
+.fg-active-trueRed:active,
+.fg-focus-trueRed:focus {
+  color: #8f1d21 !important;
+}
+.fg-pureCrimson,
+.fg-hover-pureCrimson:hover,
+.fg-active-pureCrimson:active,
+.fg-focus-pureCrimson:focus {
+  color: #c3272b !important;
+}
+.fg-scarlet,
+.fg-hover-scarlet:hover,
+.fg-active-scarlet:active,
+.fg-focus-scarlet:focus {
+  color: #cf3a24 !important;
+}
+.fg-pomegranate,
+.fg-hover-pomegranate:hover,
+.fg-active-pomegranate:active,
+.fg-focus-pomegranate:focus {
+  color: #f22613 !important;
+}
+.fg-brewedMustardBrown,
+.fg-hover-brewedMustardBrown:hover,
+.fg-active-brewedMustardBrown:active,
+.fg-focus-brewedMustardBrown:focus {
+  color: #e68364 !important;
+}
+.fg-monza,
+.fg-hover-monza:hover,
+.fg-active-monza:active,
+.fg-focus-monza:focus {
+  color: #cf000f !important;
+}
+.fg-cochinelRed,
+.fg-hover-cochinelRed:hover,
+.fg-active-cochinelRed:active,
+.fg-focus-cochinelRed:focus {
+  color: #9d2933 !important;
+}
+.fg-redOrgange,
+.fg-hover-redOrgange:hover,
+.fg-active-redOrgange:active,
+.fg-focus-redOrgange:focus {
+  color: #dc3023 !important;
+}
+.fg-foreignCrimson,
+.fg-hover-foreignCrimson:hover,
+.fg-active-foreignCrimson:active,
+.fg-focus-foreignCrimson:focus {
+  color: #c91f37 !important;
+}
+/*
+    Outlines
+*/
+.ol-cascade {
+  outline-color: #95a5a6 !important;
+}
+.ol-lynch {
+  outline-color: #6c7a89 !important;
+}
+.ol-edward {
+  outline-color: #abb7b7 !important;
+}
+.ol-gallery {
+  outline-color: #eeeeee !important;
+}
+.ol-harborRat {
+  outline-color: #757d75 !important;
+}
+.ol-pumice {
+  outline-color: #d2d7d3 !important;
+}
+.ol-porcelain {
+  outline-color: #ecf0f1 !important;
+}
+.ol-silverSand {
+  outline-color: #bdc3c7 !important;
+}
+.ol-cararra {
+  outline-color: #f2f1ef !important;
+}
+.ol-silver {
+  outline-color: #bfbfbf !important;
+}
+.ol-lightningYellow {
+  outline-color: #f5ab35 !important;
+}
+.ol-amber {
+  outline-color: #ca6924 !important;
+}
+.ol-exstasy {
+  outline-color: #f9690e !important;
+}
+.ol-goldenFallenLeaves {
+  outline-color: #e29c45 !important;
+}
+.ol-floralLeafColored {
+  outline-color: #ffb94e !important;
+}
+.ol-eggColored {
+  outline-color: #ffa631 !important;
+}
+.ol-cornColored {
+  outline-color: #faa945 !important;
+}
+.ol-gamboge {
+  outline-color: #ffb61e !important;
+}
+.ol-sumacDyed {
+  outline-color: #e08a1e !important;
+}
+.ol-brightGoldenYellow {
+  outline-color: #ffa400 !important;
+}
+.ol-saffron {
+  outline-color: #f4d03f !important;
+}
+.ol-creamCan {
+  outline-color: #f5d76e !important;
+}
+.ol-rapseedOilColored {
+  outline-color: #a17917 !important;
+}
+.ol-japaneseTriandaGrass {
+  outline-color: #e2b13c !important;
+}
+.ol-ripeLemon {
+  outline-color: #f7ca18 !important;
+}
+.ol-amurCorkTree {
+  outline-color: #f3c13a !important;
+}
+.ol-patriniaFlowers {
+  outline-color: #d9b611 !important;
+}
+.ol-oceanGreen {
+  outline-color: #4daf7c !important;
+}
+.ol-freeSpeechAquamarine {
+  outline-color: #03a678 !important;
+}
+.ol-turquoise {
+  outline-color: #36d7b7 !important;
+}
+.ol-mountainMadow {
+  outline-color: #16a085 !important;
+}
+.ol-jungleGreen {
+  outline-color: #2abb9b !important;
+}
+.ol-bservatory {
+  outline-color: #049372 !important;
+}
+.ol-jungleGreen {
+  outline-color: #2abb9b !important;
+}
+.ol-eucalyptus {
+  outline-color: #26a65b !important;
+}
+.ol-gossip {
+  outline-color: #87d37c !important;
+}
+.ol-greenBabmoo {
+  outline-color: #006442 !important;
+}
+.ol-patina {
+  outline-color: #407a52 !important;
+}
+.ol-youngBambooColor {
+  outline-color: #6b9362 !important;
+}
+.ol-freshOnion {
+  outline-color: #5b8930 !important;
+}
+.ol-youngGreenOnion {
+  outline-color: #8db255 !important;
+}
+.ol-siskinSproutYellow {
+  outline-color: #7a942e !important;
+}
+.ol-indigoColor {
+  outline-color: #264348 !important;
+}
+.ol-hanada {
+  outline-color: #044f67 !important;
+}
+.ol-naviBlueColor {
+  outline-color: #003171 !important;
+}
+.ol-lapisLazuliColor {
+  outline-color: #1f4788 !important;
+}
+.ol-steelBlue {
+  outline-color: #4b77be !important;
+}
+.ol-jordyBlue {
+  outline-color: #89c4f4 !important;
+}
+.ol-thousandHerb {
+  outline-color: #317589 !important;
+}
+.ol-lightBlueColor {
+  outline-color: #48929b !important;
+}
+.ol-pictonBlueDarker {
+  outline-color: #59abe3 !important;
+}
+.ol-dodgerBlue {
+  outline-color: #19b5fe !important;
+}
+.ol-pictonBlue {
+  outline-color: #22a7f0 !important;
+}
+.ol-ultramarineColor {
+  outline-color: #5d8cae !important;
+}
+.ol-skyColor {
+  outline-color: #4d8fac !important;
+}
+.ol-lightWisteria {
+  outline-color: #be90d4 !important;
+}
+.ol-wisteria {
+  outline-color: #9b59b6 !important;
+}
+.ol-studio {
+  outline-color: #8e44ad !important;
+}
+.ol-mediumPurple {
+  outline-color: #bf55ec !important;
+}
+.ol-violetColor {
+  outline-color: #5b3256 !important;
+}
+.ol-thinColor {
+  outline-color: #a87ca0 !important;
+}
+.ol-tatarianAsterColor {
+  outline-color: #8d608c !important;
+}
+.ol-irisColor {
+  outline-color: #763568 !important;
+}
+.ol-wisteriaColor {
+  outline-color: #89729e !important;
+}
+.ol-bellflowerColor {
+  outline-color: #5d3f6a !important;
+}
+.ol-wisteriaPurple {
+  outline-color: #875f9a !important;
+}
+.ol-ibisWingColor {
+  outline-color: #f58f84 !important;
+}
+.ol-radicalRed {
+  outline-color: #f62459 !important;
+}
+.ol-washedOutCrimson {
+  outline-color: #ffb3a7 !important;
+}
+.ol-cherryBlossomColor {
+  outline-color: #fcc9b9 !important;
+}
+.ol-mediumCrimson {
+  outline-color: #c93756 !important;
+}
+.ol-redPlumColored {
+  outline-color: #db5a6b !important;
+}
+.ol-peachColored {
+  outline-color: #f47983 !important;
+}
+.ol-oneKinDye {
+  outline-color: #f08f90 !important;
+}
+.ol-chestnutRose {
+  outline-color: #d24d57 !important;
+}
+.ol-trueRed {
+  outline-color: #8f1d21 !important;
+}
+.ol-pureCrimson {
+  outline-color: #c3272b !important;
+}
+.ol-scarlet {
+  outline-color: #cf3a24 !important;
+}
+.ol-pomegranate {
+  outline-color: #f22613 !important;
+}
+.ol-brewedMustardBrown {
+  outline-color: #e68364 !important;
+}
+.ol-monza {
+  outline-color: #cf000f !important;
+}
+.ol-cochinelRed {
+  outline-color: #9d2933 !important;
+}
+.ol-redOrgange {
+  outline-color: #dc3023 !important;
+}
+.ol-foreignCrimson {
+  outline-color: #c91f37 !important;
+}
+/*
+    Borders
+*/
+.bd-cascade {
+  border-color: #95a5a6 !important;
+}
+.bd-lynch {
+  border-color: #6c7a89 !important;
+}
+.bd-edward {
+  border-color: #abb7b7 !important;
+}
+.bd-gallery {
+  border-color: #eeeeee !important;
+}
+.bd-harborRat {
+  border-color: #757d75 !important;
+}
+.bd-pumice {
+  border-color: #d2d7d3 !important;
+}
+.bd-porcelain {
+  border-color: #ecf0f1 !important;
+}
+.bd-silverSand {
+  border-color: #bdc3c7 !important;
+}
+.bd-cararra {
+  border-color: #f2f1ef !important;
+}
+.bd-silver {
+  border-color: #bfbfbf !important;
+}
+.bd-lightningYellow {
+  border-color: #f5ab35 !important;
+}
+.bd-amber {
+  border-color: #ca6924 !important;
+}
+.bd-exstasy {
+  border-color: #f9690e !important;
+}
+.bd-goldenFallenLeaves {
+  border-color: #e29c45 !important;
+}
+.bd-floralLeafColored {
+  border-color: #ffb94e !important;
+}
+.bd-eggColored {
+  border-color: #ffa631 !important;
+}
+.bd-cornColored {
+  border-color: #faa945 !important;
+}
+.bd-gamboge {
+  border-color: #ffb61e !important;
+}
+.bd-sumacDyed {
+  border-color: #e08a1e !important;
+}
+.bd-brightGoldenYellow {
+  border-color: #ffa400 !important;
+}
+.bd-saffron {
+  border-color: #f4d03f !important;
+}
+.bd-creamCan {
+  border-color: #f5d76e !important;
+}
+.bd-rapseedOilColored {
+  border-color: #a17917 !important;
+}
+.bd-japaneseTriandaGrass {
+  border-color: #e2b13c !important;
+}
+.bd-ripeLemon {
+  border-color: #f7ca18 !important;
+}
+.bd-amurCorkTree {
+  border-color: #f3c13a !important;
+}
+.bd-patriniaFlowers {
+  border-color: #d9b611 !important;
+}
+.bd-oceanGreen {
+  border-color: #4daf7c !important;
+}
+.bd-freeSpeechAquamarine {
+  border-color: #03a678 !important;
+}
+.bd-turquoise {
+  border-color: #36d7b7 !important;
+}
+.bd-mountainMadow {
+  border-color: #16a085 !important;
+}
+.bd-jungleGreen {
+  border-color: #2abb9b !important;
+}
+.bd-bservatory {
+  border-color: #049372 !important;
+}
+.bd-jungleGreen {
+  border-color: #2abb9b !important;
+}
+.bd-eucalyptus {
+  border-color: #26a65b !important;
+}
+.bd-gossip {
+  border-color: #87d37c !important;
+}
+.bd-greenBabmoo {
+  border-color: #006442 !important;
+}
+.bd-patina {
+  border-color: #407a52 !important;
+}
+.bd-youngBambooColor {
+  border-color: #6b9362 !important;
+}
+.bd-freshOnion {
+  border-color: #5b8930 !important;
+}
+.bd-youngGreenOnion {
+  border-color: #8db255 !important;
+}
+.bd-siskinSproutYellow {
+  border-color: #7a942e !important;
+}
+.bd-indigoColor {
+  border-color: #264348 !important;
+}
+.bd-hanada {
+  border-color: #044f67 !important;
+}
+.bd-naviBlueColor {
+  border-color: #003171 !important;
+}
+.bd-lapisLazuliColor {
+  border-color: #1f4788 !important;
+}
+.bd-steelBlue {
+  border-color: #4b77be !important;
+}
+.bd-jordyBlue {
+  border-color: #89c4f4 !important;
+}
+.bd-thousandHerb {
+  border-color: #317589 !important;
+}
+.bd-lightBlueColor {
+  border-color: #48929b !important;
+}
+.bd-pictonBlueDarker {
+  border-color: #59abe3 !important;
+}
+.bd-dodgerBlue {
+  border-color: #19b5fe !important;
+}
+.bd-pictonBlue {
+  border-color: #22a7f0 !important;
+}
+.bd-ultramarineColor {
+  border-color: #5d8cae !important;
+}
+.bd-skyColor {
+  border-color: #4d8fac !important;
+}
+.bd-lightWisteria {
+  border-color: #be90d4 !important;
+}
+.bd-wisteria {
+  border-color: #9b59b6 !important;
+}
+.bd-studio {
+  border-color: #8e44ad !important;
+}
+.bd-mediumPurple {
+  border-color: #bf55ec !important;
+}
+.bd-violetColor {
+  border-color: #5b3256 !important;
+}
+.bd-thinColor {
+  border-color: #a87ca0 !important;
+}
+.bd-tatarianAsterColor {
+  border-color: #8d608c !important;
+}
+.bd-irisColor {
+  border-color: #763568 !important;
+}
+.bd-wisteriaColor {
+  border-color: #89729e !important;
+}
+.bd-bellflowerColor {
+  border-color: #5d3f6a !important;
+}
+.bd-wisteriaPurple {
+  border-color: #875f9a !important;
+}
+.bd-ibisWingColor {
+  border-color: #f58f84 !important;
+}
+.bd-radicalRed {
+  border-color: #f62459 !important;
+}
+.bd-washedOutCrimson {
+  border-color: #ffb3a7 !important;
+}
+.bd-cherryBlossomColor {
+  border-color: #fcc9b9 !important;
+}
+.bd-mediumCrimson {
+  border-color: #c93756 !important;
+}
+.bd-redPlumColored {
+  border-color: #db5a6b !important;
+}
+.bd-peachColored {
+  border-color: #f47983 !important;
+}
+.bd-oneKinDye {
+  border-color: #f08f90 !important;
+}
+.bd-chestnutRose {
+  border-color: #d24d57 !important;
+}
+.bd-trueRed {
+  border-color: #8f1d21 !important;
+}
+.bd-pureCrimson {
+  border-color: #c3272b !important;
+}
+.bd-scarlet {
+  border-color: #cf3a24 !important;
+}
+.bd-pomegranate {
+  border-color: #f22613 !important;
+}
+.bd-brewedMustardBrown {
+  border-color: #e68364 !important;
+}
+.bd-monza {
+  border-color: #cf000f !important;
+}
+.bd-cochinelRed {
+  border-color: #9d2933 !important;
+}
+.bd-redOrgange {
+  border-color: #dc3023 !important;
+}
+.bd-foreignCrimson {
+  border-color: #c91f37 !important;
+}
+.color-hover:hover {
+  border: solid 2px #999999;
+  cursor: pointer;
+}

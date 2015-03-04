@@ -1,0 +1,148 @@
+﻿// Red
+@foreignCrimson: #c91f37;
+@redOrgange: #dc3023;
+@cochinelRed: #9D2933;
+@monza: #CF000F;
+@brewedMustardBrown: #E68364;
+@pomegranate: #F22613;
+@scarlet: #CF3A24;
+@pureCrimson: #C3272B;
+@trueRed: #8F1D21;
+@chestnutRose: #D24D57;
+
+// Pink
+@oneKinDye: #F08F90;
+@peachColored: #F47983;
+@redPlumColored: #DB5A6B;
+@mediumCrimson: #C93756;
+@cherryBlossomColor: #FCC9B9;
+@washedOutCrimson: #FFB3A7;
+@radicalRed: #F62459;
+@ibisWingColor: #F58F84;
+
+// Purple
+@wisteriaPurple: #875F9A;
+@bellflowerColor: #5D3F6A;
+@wisteriaColor: #89729E;
+@irisColor: #763568;
+@tatarianAsterColor: #8D608C;
+@thinColor: #A87CA0;
+@violetColor: #5B3256;
+@mediumPurple: #BF55EC;
+@studio: #8E44AD;
+@wisteria: #9B59B6;
+@lightWisteria: #BE90D4;
+
+// Blue
+@skyColor: #4D8FAC;
+@ultramarineColor: #5D8CAE;
+@pictonBlue: #22A7F0;
+@dodgerBlue: #19B5FE;
+@pictonBlueDarker: #59ABE3;
+@lightBlueColor: #48929B;
+@thousandHerb: #317589;
+@jordyBlue: #89C4F4;
+@steelBlue: #4B77BE;
+@lapisLazuliColor: #1F4788;
+@naviBlueColor: #003171;
+@hanada: #044F67;
+@indigoColor: #264348;
+
+// Green
+@siskinSproutYellow: #7A942E;
+@youngGreenOnion: #8DB255;
+@freshOnion: #5B8930;
+@youngBambooColor: #6B9362;
+@patina: #407A52;
+@greenBabmoo: #006442;
+@gossip: #87D37C;
+@eucalyptus: #26A65B;
+@jungleGreen: #26C281;
+@bservatory: #049372;
+@jungleGreen: #2ABB9B;
+@mountainMadow: #16A085;
+@turquoise: #36D7B7;
+@freeSpeechAquamarine: #03A678;
+@oceanGreen: #4DAF7C;
+
+// Yellow
+@patriniaFlowers: #D9B611;
+@amurCorkTree: #F3C13A;
+@ripeLemon: #F7CA18;
+@japaneseTriandaGrass: #E2B13C;
+@rapseedOilColored: #A17917;
+@creamCan: #F5D76E;
+@saffron: #F4D03F;
+@brightGoldenYellow: #FFA400;
+@sumacDyed: #E08A1E;
+@gamboge: #FFB61E;
+@cornColored: #FAA945;
+@eggColored: #FFA631;
+@floralLeafColored: #FFB94E;
+@goldenFallenLeaves: #E29C45;
+@exstasy: #F9690E;
+@amber: #CA6924;
+@lightningYellow: #F5AB35;
+
+// Gray
+@silver: #BFBFBF;
+@cararra: #F2F1EF;
+@silverSand: #BDC3C7;
+@porcelain: #ECF0F1;
+@pumice: #D2D7D3;
+@harborRat: #757D75;
+@gallery: #EEEEEE;
+@edward: #ABB7B7;
+@lynch: #6C7A89;
+@cascade: #95A5A6;
+
+/*
+    Backgrounds
+*/
+@colors: 'foreignCrimson', 'redOrgange', 'cochinelRed', 'monza', 'brewedMustardBrown', 'pomegranate', 'scarlet', 'pureCrimson', 'trueRed', 'chestnutRose', 'oneKinDye', 'peachColored', 'redPlumColored', 'mediumCrimson', 'cherryBlossomColor', 'washedOutCrimson', 'radicalRed', 'ibisWingColor', 'wisteriaPurple', 'bellflowerColor', 'wisteriaColor', 'irisColor', 'tatarianAsterColor', 'thinColor', 'violetColor', 'mediumPurple', 'studio', 'wisteria', 'lightWisteria', 'skyColor', 'ultramarineColor', 'pictonBlue', 'dodgerBlue', 'pictonBlueDarker', 'lightBlueColor', 'thousandHerb', 'jordyBlue', 'steelBlue', 'lapisLazuliColor', 'naviBlueColor', 'hanada', 'indigoColor', 'siskinSproutYellow', 'youngGreenOnion', 'freshOnion', 'youngBambooColor', 'patina', 'greenBabmoo', 'gossip', 'eucalyptus', 'jungleGreen', 'bservatory', 'jungleGreen', 'mountainMadow', 'turquoise', 'freeSpeechAquamarine', 'oceanGreen', 'patriniaFlowers', 'amurCorkTree', 'ripeLemon', 'japaneseTriandaGrass', 'rapseedOilColored', 'creamCan', 'saffron', 'brightGoldenYellow', 'sumacDyed', 'gamboge', 'cornColored', 'eggColored', 'floralLeafColored', 'goldenFallenLeaves', 'exstasy', 'amber', 'lightningYellow', 'silver', 'cararra', 'silverSand', 'porcelain', 'pumice', 'harborRat', 'gallery', 'edward', 'lynch', 'cascade';
+
+.bg-{
+    .-(@i: length(@colors)) when (@i > 0) {
+        @name: e(extract(@colors, @i));
+        &@{name}, &hover-@{name}:hover, &active-@{name}:active, &focus-@{name}:focus {background: @@name !important;}
+        .-((@i - 1));
+    } .-;
+}
+
+/*
+    Foreground
+*/
+.fg-{
+    .-(@i: length(@colors)) when (@i > 0) {
+        @name: e(extract(@colors, @i));
+        &@{name}, &hover-@{name}:hover, &active-@{name}:active, &focus-@{name}:focus {color: @@name !important;}
+        .-((@i - 1));
+    } .-;
+}
+
+/*
+    Outlines
+*/
+.ol-{
+    .-(@i: length(@colors)) when (@i > 0) {
+        @name: e(extract(@colors, @i));
+        &@{name} { outline-color: @@name !important;}
+        .-((@i - 1));
+    } .-;
+}
+
+/*
+    Borders
+*/
+.bd-{
+    .-(@i: length(@colors)) when (@i > 0) {
+        @name: e(extract(@colors, @i));
+        &@{name} { border-color: @@name !important;}
+        .-((@i - 1));
+    } .-;
+}
+
+.color-hover:hover {
+    border: solid 2px #999999;
+    cursor: pointer;
+}

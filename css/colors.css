@@ -1,0 +1,966 @@
+/*
+    Backgrounds
+*/
+.bg-blue,
+.bg-hover-blue:hover,
+.bg-active-blue:active,
+.bg-focus-blue:focus {
+  background: #00aff0 !important;
+}
+.bg-grayLighter,
+.bg-hover-grayLighter:hover,
+.bg-active-grayLighter:active,
+.bg-focus-grayLighter:focus {
+  background: #eeeeee !important;
+}
+.bg-grayLight,
+.bg-hover-grayLight:hover,
+.bg-active-grayLight:active,
+.bg-focus-grayLight:focus {
+  background: #999999 !important;
+}
+.bg-grayDarker,
+.bg-hover-grayDarker:hover,
+.bg-active-grayDarker:active,
+.bg-focus-grayDarker:focus {
+  background: #222222 !important;
+}
+.bg-grayDark,
+.bg-hover-grayDark:hover,
+.bg-active-grayDark:active,
+.bg-focus-grayDark:focus {
+  background: #333333 !important;
+}
+.bg-lightPink,
+.bg-hover-lightPink:hover,
+.bg-active-lightPink:active,
+.bg-focus-lightPink:focus {
+  background: #f472d0 !important;
+}
+.bg-lightOrange,
+.bg-hover-lightOrange:hover,
+.bg-active-lightOrange:active,
+.bg-focus-lightOrange:focus {
+  background: #c29008 !important;
+}
+.bg-lightOlive,
+.bg-hover-lightOlive:hover,
+.bg-active-lightOlive:active,
+.bg-focus-lightOlive:focus {
+  background: #78aa1c !important;
+}
+.bg-lightTeal,
+.bg-hover-lightTeal:hover,
+.bg-active-lightTeal:active,
+.bg-focus-lightTeal:focus {
+  background: #45fffd !important;
+}
+.bg-lighterBlue,
+.bg-hover-lighterBlue:hover,
+.bg-active-lighterBlue:active,
+.bg-focus-lighterBlue:focus {
+  background: #00ccff !important;
+}
+.bg-lightGreen,
+.bg-hover-lightGreen:hover,
+.bg-active-lightGreen:active,
+.bg-focus-lightGreen:focus {
+  background: #7ad61d !important;
+}
+.bg-lightRed,
+.bg-hover-lightRed:hover,
+.bg-active-lightRed:active,
+.bg-focus-lightRed:focus {
+  background: #ff2d19 !important;
+}
+.bg-lightBlue,
+.bg-hover-lightBlue:hover,
+.bg-active-lightBlue:active,
+.bg-focus-lightBlue:focus {
+  background: #4390df !important;
+}
+.bg-darkBlue,
+.bg-hover-darkBlue:hover,
+.bg-active-darkBlue:active,
+.bg-focus-darkBlue:focus {
+  background: #16499a !important;
+}
+.bg-darkViolet,
+.bg-hover-darkViolet:hover,
+.bg-active-darkViolet:active,
+.bg-focus-darkViolet:focus {
+  background: #57169a !important;
+}
+.bg-darkPink,
+.bg-hover-darkPink:hover,
+.bg-active-darkPink:active,
+.bg-focus-darkPink:focus {
+  background: #9a165a !important;
+}
+.bg-darkRed,
+.bg-hover-darkRed:hover,
+.bg-active-darkRed:active,
+.bg-focus-darkRed:focus {
+  background: #9a1616 !important;
+}
+.bg-darkOrange,
+.bg-hover-darkOrange:hover,
+.bg-active-darkOrange:active,
+.bg-focus-darkOrange:focus {
+  background: #bf5a15 !important;
+}
+.bg-darkGreen,
+.bg-hover-darkGreen:hover,
+.bg-active-darkGreen:active,
+.bg-focus-darkGreen:focus {
+  background: #128023 !important;
+}
+.bg-darkEmerald,
+.bg-hover-darkEmerald:hover,
+.bg-active-darkEmerald:active,
+.bg-focus-darkEmerald:focus {
+  background: #003e00 !important;
+}
+.bg-darkTeal,
+.bg-hover-darkTeal:hover,
+.bg-active-darkTeal:active,
+.bg-focus-darkTeal:focus {
+  background: #004050 !important;
+}
+.bg-darkCobalt,
+.bg-hover-darkCobalt:hover,
+.bg-active-darkCobalt:active,
+.bg-focus-darkCobalt:focus {
+  background: #00356a !important;
+}
+.bg-darkCyan,
+.bg-hover-darkCyan:hover,
+.bg-active-darkCyan:active,
+.bg-focus-darkCyan:focus {
+  background: #1b6eae !important;
+}
+.bg-darkIndigo,
+.bg-hover-darkIndigo:hover,
+.bg-active-darkIndigo:active,
+.bg-focus-darkIndigo:focus {
+  background: #4b0096 !important;
+}
+.bg-darkMagenta,
+.bg-hover-darkMagenta:hover,
+.bg-active-darkMagenta:active,
+.bg-focus-darkMagenta:focus {
+  background: #81003c !important;
+}
+.bg-darkCrimson,
+.bg-hover-darkCrimson:hover,
+.bg-active-darkCrimson:active,
+.bg-focus-darkCrimson:focus {
+  background: #640024 !important;
+}
+.bg-darkBrown,
+.bg-hover-darkBrown:hover,
+.bg-active-darkBrown:active,
+.bg-focus-darkBrown:focus {
+  background: #63362f !important;
+}
+.bg-transparent,
+.bg-hover-transparent:hover,
+.bg-active-transparent:active,
+.bg-focus-transparent:focus {
+  background: transparent !important;
+}
+.bg-darker,
+.bg-hover-darker:hover,
+.bg-active-darker:active,
+.bg-focus-darker:focus {
+  background: #222222 !important;
+}
+.bg-dark,
+.bg-hover-dark:hover,
+.bg-active-dark:active,
+.bg-focus-dark:focus {
+  background: #333333 !important;
+}
+.bg-gray,
+.bg-hover-gray:hover,
+.bg-active-gray:active,
+.bg-focus-gray:focus {
+  background: #555555 !important;
+}
+.bg-taupe,
+.bg-hover-taupe:hover,
+.bg-active-taupe:active,
+.bg-focus-taupe:focus {
+  background: #87794e !important;
+}
+.bg-mauve,
+.bg-hover-mauve:hover,
+.bg-active-mauve:active,
+.bg-focus-mauve:focus {
+  background: #76608a !important;
+}
+.bg-steel,
+.bg-hover-steel:hover,
+.bg-active-steel:active,
+.bg-focus-steel:focus {
+  background: #647687 !important;
+}
+.bg-olive,
+.bg-hover-olive:hover,
+.bg-active-olive:active,
+.bg-focus-olive:focus {
+  background: #6d8764 !important;
+}
+.bg-brown,
+.bg-hover-brown:hover,
+.bg-active-brown:active,
+.bg-focus-brown:focus {
+  background: #825a2c !important;
+}
+.bg-yellow,
+.bg-hover-yellow:hover,
+.bg-active-yellow:active,
+.bg-focus-yellow:focus {
+  background: #e3c800 !important;
+}
+.bg-amber,
+.bg-hover-amber:hover,
+.bg-active-amber:active,
+.bg-focus-amber:focus {
+  background: #f0a30a !important;
+}
+.bg-orange,
+.bg-hover-orange:hover,
+.bg-active-orange:active,
+.bg-focus-orange:focus {
+  background: #fa6800 !important;
+}
+.bg-red,
+.bg-hover-red:hover,
+.bg-active-red:active,
+.bg-focus-red:focus {
+  background: #e51400 !important;
+}
+.bg-crimson,
+.bg-hover-crimson:hover,
+.bg-active-crimson:active,
+.bg-focus-crimson:focus {
+  background: #a20025 !important;
+}
+.bg-magenta,
+.bg-hover-magenta:hover,
+.bg-active-magenta:active,
+.bg-focus-magenta:focus {
+  background: #d80073 !important;
+}
+.bg-pink,
+.bg-hover-pink:hover,
+.bg-active-pink:active,
+.bg-focus-pink:focus {
+  background: #dc4fad !important;
+}
+.bg-violet,
+.bg-hover-violet:hover,
+.bg-active-violet:active,
+.bg-focus-violet:focus {
+  background: #aa00ff !important;
+}
+.bg-indigo,
+.bg-hover-indigo:hover,
+.bg-active-indigo:active,
+.bg-focus-indigo:focus {
+  background: #6a00ff !important;
+}
+.bg-cobalt,
+.bg-hover-cobalt:hover,
+.bg-active-cobalt:active,
+.bg-focus-cobalt:focus {
+  background: #0050ef !important;
+}
+.bg-cyan,
+.bg-hover-cyan:hover,
+.bg-active-cyan:active,
+.bg-focus-cyan:focus {
+  background: #1ba1e2 !important;
+}
+.bg-teal,
+.bg-hover-teal:hover,
+.bg-active-teal:active,
+.bg-focus-teal:focus {
+  background: #00aba9 !important;
+}
+.bg-emerald,
+.bg-hover-emerald:hover,
+.bg-active-emerald:active,
+.bg-focus-emerald:focus {
+  background: #008a00 !important;
+}
+.bg-green,
+.bg-hover-green:hover,
+.bg-active-green:active,
+.bg-focus-green:focus {
+  background: #60a917 !important;
+}
+.bg-lime,
+.bg-hover-lime:hover,
+.bg-active-lime:active,
+.bg-focus-lime:focus {
+  background: #a4c400 !important;
+}
+.bg-white,
+.bg-hover-white:hover,
+.bg-active-white:active,
+.bg-focus-white:focus {
+  background: #ffffff !important;
+}
+.bg-black,
+.bg-hover-black:hover,
+.bg-active-black:active,
+.bg-focus-black:focus {
+  background: #000000 !important;
+}
+/*
+    Foreground
+*/
+.fg-blue,
+.fg-hover-blue:hover,
+.fg-active-blue:active,
+.fg-focus-blue:focus {
+  color: #00aff0 !important;
+}
+.fg-grayLighter,
+.fg-hover-grayLighter:hover,
+.fg-active-grayLighter:active,
+.fg-focus-grayLighter:focus {
+  color: #eeeeee !important;
+}
+.fg-grayLight,
+.fg-hover-grayLight:hover,
+.fg-active-grayLight:active,
+.fg-focus-grayLight:focus {
+  color: #999999 !important;
+}
+.fg-grayDarker,
+.fg-hover-grayDarker:hover,
+.fg-active-grayDarker:active,
+.fg-focus-grayDarker:focus {
+  color: #222222 !important;
+}
+.fg-grayDark,
+.fg-hover-grayDark:hover,
+.fg-active-grayDark:active,
+.fg-focus-grayDark:focus {
+  color: #333333 !important;
+}
+.fg-lightPink,
+.fg-hover-lightPink:hover,
+.fg-active-lightPink:active,
+.fg-focus-lightPink:focus {
+  color: #f472d0 !important;
+}
+.fg-lightOrange,
+.fg-hover-lightOrange:hover,
+.fg-active-lightOrange:active,
+.fg-focus-lightOrange:focus {
+  color: #c29008 !important;
+}
+.fg-lightOlive,
+.fg-hover-lightOlive:hover,
+.fg-active-lightOlive:active,
+.fg-focus-lightOlive:focus {
+  color: #78aa1c !important;
+}
+.fg-lightTeal,
+.fg-hover-lightTeal:hover,
+.fg-active-lightTeal:active,
+.fg-focus-lightTeal:focus {
+  color: #45fffd !important;
+}
+.fg-lighterBlue,
+.fg-hover-lighterBlue:hover,
+.fg-active-lighterBlue:active,
+.fg-focus-lighterBlue:focus {
+  color: #00ccff !important;
+}
+.fg-lightGreen,
+.fg-hover-lightGreen:hover,
+.fg-active-lightGreen:active,
+.fg-focus-lightGreen:focus {
+  color: #7ad61d !important;
+}
+.fg-lightRed,
+.fg-hover-lightRed:hover,
+.fg-active-lightRed:active,
+.fg-focus-lightRed:focus {
+  color: #ff2d19 !important;
+}
+.fg-lightBlue,
+.fg-hover-lightBlue:hover,
+.fg-active-lightBlue:active,
+.fg-focus-lightBlue:focus {
+  color: #4390df !important;
+}
+.fg-darkBlue,
+.fg-hover-darkBlue:hover,
+.fg-active-darkBlue:active,
+.fg-focus-darkBlue:focus {
+  color: #16499a !important;
+}
+.fg-darkViolet,
+.fg-hover-darkViolet:hover,
+.fg-active-darkViolet:active,
+.fg-focus-darkViolet:focus {
+  color: #57169a !important;
+}
+.fg-darkPink,
+.fg-hover-darkPink:hover,
+.fg-active-darkPink:active,
+.fg-focus-darkPink:focus {
+  color: #9a165a !important;
+}
+.fg-darkRed,
+.fg-hover-darkRed:hover,
+.fg-active-darkRed:active,
+.fg-focus-darkRed:focus {
+  color: #9a1616 !important;
+}
+.fg-darkOrange,
+.fg-hover-darkOrange:hover,
+.fg-active-darkOrange:active,
+.fg-focus-darkOrange:focus {
+  color: #bf5a15 !important;
+}
+.fg-darkGreen,
+.fg-hover-darkGreen:hover,
+.fg-active-darkGreen:active,
+.fg-focus-darkGreen:focus {
+  color: #128023 !important;
+}
+.fg-darkEmerald,
+.fg-hover-darkEmerald:hover,
+.fg-active-darkEmerald:active,
+.fg-focus-darkEmerald:focus {
+  color: #003e00 !important;
+}
+.fg-darkTeal,
+.fg-hover-darkTeal:hover,
+.fg-active-darkTeal:active,
+.fg-focus-darkTeal:focus {
+  color: #004050 !important;
+}
+.fg-darkCobalt,
+.fg-hover-darkCobalt:hover,
+.fg-active-darkCobalt:active,
+.fg-focus-darkCobalt:focus {
+  color: #00356a !important;
+}
+.fg-darkCyan,
+.fg-hover-darkCyan:hover,
+.fg-active-darkCyan:active,
+.fg-focus-darkCyan:focus {
+  color: #1b6eae !important;
+}
+.fg-darkIndigo,
+.fg-hover-darkIndigo:hover,
+.fg-active-darkIndigo:active,
+.fg-focus-darkIndigo:focus {
+  color: #4b0096 !important;
+}
+.fg-darkMagenta,
+.fg-hover-darkMagenta:hover,
+.fg-active-darkMagenta:active,
+.fg-focus-darkMagenta:focus {
+  color: #81003c !important;
+}
+.fg-darkCrimson,
+.fg-hover-darkCrimson:hover,
+.fg-active-darkCrimson:active,
+.fg-focus-darkCrimson:focus {
+  color: #640024 !important;
+}
+.fg-darkBrown,
+.fg-hover-darkBrown:hover,
+.fg-active-darkBrown:active,
+.fg-focus-darkBrown:focus {
+  color: #63362f !important;
+}
+.fg-transparent,
+.fg-hover-transparent:hover,
+.fg-active-transparent:active,
+.fg-focus-transparent:focus {
+  color: transparent !important;
+}
+.fg-darker,
+.fg-hover-darker:hover,
+.fg-active-darker:active,
+.fg-focus-darker:focus {
+  color: #222222 !important;
+}
+.fg-dark,
+.fg-hover-dark:hover,
+.fg-active-dark:active,
+.fg-focus-dark:focus {
+  color: #333333 !important;
+}
+.fg-gray,
+.fg-hover-gray:hover,
+.fg-active-gray:active,
+.fg-focus-gray:focus {
+  color: #555555 !important;
+}
+.fg-taupe,
+.fg-hover-taupe:hover,
+.fg-active-taupe:active,
+.fg-focus-taupe:focus {
+  color: #87794e !important;
+}
+.fg-mauve,
+.fg-hover-mauve:hover,
+.fg-active-mauve:active,
+.fg-focus-mauve:focus {
+  color: #76608a !important;
+}
+.fg-steel,
+.fg-hover-steel:hover,
+.fg-active-steel:active,
+.fg-focus-steel:focus {
+  color: #647687 !important;
+}
+.fg-olive,
+.fg-hover-olive:hover,
+.fg-active-olive:active,
+.fg-focus-olive:focus {
+  color: #6d8764 !important;
+}
+.fg-brown,
+.fg-hover-brown:hover,
+.fg-active-brown:active,
+.fg-focus-brown:focus {
+  color: #825a2c !important;
+}
+.fg-yellow,
+.fg-hover-yellow:hover,
+.fg-active-yellow:active,
+.fg-focus-yellow:focus {
+  color: #e3c800 !important;
+}
+.fg-amber,
+.fg-hover-amber:hover,
+.fg-active-amber:active,
+.fg-focus-amber:focus {
+  color: #f0a30a !important;
+}
+.fg-orange,
+.fg-hover-orange:hover,
+.fg-active-orange:active,
+.fg-focus-orange:focus {
+  color: #fa6800 !important;
+}
+.fg-red,
+.fg-hover-red:hover,
+.fg-active-red:active,
+.fg-focus-red:focus {
+  color: #e51400 !important;
+}
+.fg-crimson,
+.fg-hover-crimson:hover,
+.fg-active-crimson:active,
+.fg-focus-crimson:focus {
+  color: #a20025 !important;
+}
+.fg-magenta,
+.fg-hover-magenta:hover,
+.fg-active-magenta:active,
+.fg-focus-magenta:focus {
+  color: #d80073 !important;
+}
+.fg-pink,
+.fg-hover-pink:hover,
+.fg-active-pink:active,
+.fg-focus-pink:focus {
+  color: #dc4fad !important;
+}
+.fg-violet,
+.fg-hover-violet:hover,
+.fg-active-violet:active,
+.fg-focus-violet:focus {
+  color: #aa00ff !important;
+}
+.fg-indigo,
+.fg-hover-indigo:hover,
+.fg-active-indigo:active,
+.fg-focus-indigo:focus {
+  color: #6a00ff !important;
+}
+.fg-cobalt,
+.fg-hover-cobalt:hover,
+.fg-active-cobalt:active,
+.fg-focus-cobalt:focus {
+  color: #0050ef !important;
+}
+.fg-cyan,
+.fg-hover-cyan:hover,
+.fg-active-cyan:active,
+.fg-focus-cyan:focus {
+  color: #1ba1e2 !important;
+}
+.fg-teal,
+.fg-hover-teal:hover,
+.fg-active-teal:active,
+.fg-focus-teal:focus {
+  color: #00aba9 !important;
+}
+.fg-emerald,
+.fg-hover-emerald:hover,
+.fg-active-emerald:active,
+.fg-focus-emerald:focus {
+  color: #008a00 !important;
+}
+.fg-green,
+.fg-hover-green:hover,
+.fg-active-green:active,
+.fg-focus-green:focus {
+  color: #60a917 !important;
+}
+.fg-lime,
+.fg-hover-lime:hover,
+.fg-active-lime:active,
+.fg-focus-lime:focus {
+  color: #a4c400 !important;
+}
+.fg-white,
+.fg-hover-white:hover,
+.fg-active-white:active,
+.fg-focus-white:focus {
+  color: #ffffff !important;
+}
+.fg-black,
+.fg-hover-black:hover,
+.fg-active-black:active,
+.fg-focus-black:focus {
+  color: #000000 !important;
+}
+/*
+    Outlines
+*/
+.ol-blue {
+  outline-color: #00aff0 !important;
+}
+.ol-grayLighter {
+  outline-color: #eeeeee !important;
+}
+.ol-grayLight {
+  outline-color: #999999 !important;
+}
+.ol-grayDarker {
+  outline-color: #222222 !important;
+}
+.ol-grayDark {
+  outline-color: #333333 !important;
+}
+.ol-lightPink {
+  outline-color: #f472d0 !important;
+}
+.ol-lightOrange {
+  outline-color: #c29008 !important;
+}
+.ol-lightOlive {
+  outline-color: #78aa1c !important;
+}
+.ol-lightTeal {
+  outline-color: #45fffd !important;
+}
+.ol-lighterBlue {
+  outline-color: #00ccff !important;
+}
+.ol-lightGreen {
+  outline-color: #7ad61d !important;
+}
+.ol-lightRed {
+  outline-color: #ff2d19 !important;
+}
+.ol-lightBlue {
+  outline-color: #4390df !important;
+}
+.ol-darkBlue {
+  outline-color: #16499a !important;
+}
+.ol-darkViolet {
+  outline-color: #57169a !important;
+}
+.ol-darkPink {
+  outline-color: #9a165a !important;
+}
+.ol-darkRed {
+  outline-color: #9a1616 !important;
+}
+.ol-darkOrange {
+  outline-color: #bf5a15 !important;
+}
+.ol-darkGreen {
+  outline-color: #128023 !important;
+}
+.ol-darkEmerald {
+  outline-color: #003e00 !important;
+}
+.ol-darkTeal {
+  outline-color: #004050 !important;
+}
+.ol-darkCobalt {
+  outline-color: #00356a !important;
+}
+.ol-darkCyan {
+  outline-color: #1b6eae !important;
+}
+.ol-darkIndigo {
+  outline-color: #4b0096 !important;
+}
+.ol-darkMagenta {
+  outline-color: #81003c !important;
+}
+.ol-darkCrimson {
+  outline-color: #640024 !important;
+}
+.ol-darkBrown {
+  outline-color: #63362f !important;
+}
+.ol-transparent {
+  outline-color: transparent !important;
+}
+.ol-darker {
+  outline-color: #222222 !important;
+}
+.ol-dark {
+  outline-color: #333333 !important;
+}
+.ol-gray {
+  outline-color: #555555 !important;
+}
+.ol-taupe {
+  outline-color: #87794e !important;
+}
+.ol-mauve {
+  outline-color: #76608a !important;
+}
+.ol-steel {
+  outline-color: #647687 !important;
+}
+.ol-olive {
+  outline-color: #6d8764 !important;
+}
+.ol-brown {
+  outline-color: #825a2c !important;
+}
+.ol-yellow {
+  outline-color: #e3c800 !important;
+}
+.ol-amber {
+  outline-color: #f0a30a !important;
+}
+.ol-orange {
+  outline-color: #fa6800 !important;
+}
+.ol-red {
+  outline-color: #e51400 !important;
+}
+.ol-crimson {
+  outline-color: #a20025 !important;
+}
+.ol-magenta {
+  outline-color: #d80073 !important;
+}
+.ol-pink {
+  outline-color: #dc4fad !important;
+}
+.ol-violet {
+  outline-color: #aa00ff !important;
+}
+.ol-indigo {
+  outline-color: #6a00ff !important;
+}
+.ol-cobalt {
+  outline-color: #0050ef !important;
+}
+.ol-cyan {
+  outline-color: #1ba1e2 !important;
+}
+.ol-teal {
+  outline-color: #00aba9 !important;
+}
+.ol-emerald {
+  outline-color: #008a00 !important;
+}
+.ol-green {
+  outline-color: #60a917 !important;
+}
+.ol-lime {
+  outline-color: #a4c400 !important;
+}
+.ol-white {
+  outline-color: #ffffff !important;
+}
+.ol-black {
+  outline-color: #000000 !important;
+}
+/*
+    Borders
+*/
+.bd-blue {
+  border-color: #00aff0 !important;
+}
+.bd-grayLighter {
+  border-color: #eeeeee !important;
+}
+.bd-grayLight {
+  border-color: #999999 !important;
+}
+.bd-grayDarker {
+  border-color: #222222 !important;
+}
+.bd-grayDark {
+  border-color: #333333 !important;
+}
+.bd-lightPink {
+  border-color: #f472d0 !important;
+}
+.bd-lightOrange {
+  border-color: #c29008 !important;
+}
+.bd-lightOlive {
+  border-color: #78aa1c !important;
+}
+.bd-lightTeal {
+  border-color: #45fffd !important;
+}
+.bd-lighterBlue {
+  border-color: #00ccff !important;
+}
+.bd-lightGreen {
+  border-color: #7ad61d !important;
+}
+.bd-lightRed {
+  border-color: #ff2d19 !important;
+}
+.bd-lightBlue {
+  border-color: #4390df !important;
+}
+.bd-darkBlue {
+  border-color: #16499a !important;
+}
+.bd-darkViolet {
+  border-color: #57169a !important;
+}
+.bd-darkPink {
+  border-color: #9a165a !important;
+}
+.bd-darkRed {
+  border-color: #9a1616 !important;
+}
+.bd-darkOrange {
+  border-color: #bf5a15 !important;
+}
+.bd-darkGreen {
+  border-color: #128023 !important;
+}
+.bd-darkEmerald {
+  border-color: #003e00 !important;
+}
+.bd-darkTeal {
+  border-color: #004050 !important;
+}
+.bd-darkCobalt {
+  border-color: #00356a !important;
+}
+.bd-darkCyan {
+  border-color: #1b6eae !important;
+}
+.bd-darkIndigo {
+  border-color: #4b0096 !important;
+}
+.bd-darkMagenta {
+  border-color: #81003c !important;
+}
+.bd-darkCrimson {
+  border-color: #640024 !important;
+}
+.bd-darkBrown {
+  border-color: #63362f !important;
+}
+.bd-transparent {
+  border-color: transparent !important;
+}
+.bd-darker {
+  border-color: #222222 !important;
+}
+.bd-dark {
+  border-color: #333333 !important;
+}
+.bd-gray {
+  border-color: #555555 !important;
+}
+.bd-taupe {
+  border-color: #87794e !important;
+}
+.bd-mauve {
+  border-color: #76608a !important;
+}
+.bd-steel {
+  border-color: #647687 !important;
+}
+.bd-olive {
+  border-color: #6d8764 !important;
+}
+.bd-brown {
+  border-color: #825a2c !important;
+}
+.bd-yellow {
+  border-color: #e3c800 !important;
+}
+.bd-amber {
+  border-color: #f0a30a !important;
+}
+.bd-orange {
+  border-color: #fa6800 !important;
+}
+.bd-red {
+  border-color: #e51400 !important;
+}
+.bd-crimson {
+  border-color: #a20025 !important;
+}
+.bd-magenta {
+  border-color: #d80073 !important;
+}
+.bd-pink {
+  border-color: #dc4fad !important;
+}
+.bd-violet {
+  border-color: #aa00ff !important;
+}
+.bd-indigo {
+  border-color: #6a00ff !important;
+}
+.bd-cobalt {
+  border-color: #0050ef !important;
+}
+.bd-cyan {
+  border-color: #1ba1e2 !important;
+}
+.bd-teal {
+  border-color: #00aba9 !important;
+}
+.bd-emerald {
+  border-color: #008a00 !important;
+}
+.bd-green {
+  border-color: #60a917 !important;
+}
+.bd-lime {
+  border-color: #a4c400 !important;
+}
+.bd-white {
+  border-color: #ffffff !important;
+}
+.bd-black {
+  border-color: #000000 !important;
+}

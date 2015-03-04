@@ -1,0 +1,24 @@
+{
+  "name": "colorstyles",
+  "version": "0.0.1",
+  "authors": [
+    "Dude9177 <dude9177@gmail.com>"
+  ],
+  "description": "A bunch of color styles for foreground, background, outlines and borders including :active, :hover and :focus",
+  "keywords": [
+    "colors",
+    "web",
+    "less",
+    "css",
+    "styles",
+    "color",
+    "styles",
+    "colorstyles",
+    "foreground colors",
+    "background colors",
+    "outline colors",
+    "border colors"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Dude9177/colorstyles"
+}
