@@ -30,23 +30,23 @@ or
 
 #### Foreground
 
-Use the ```css fg-* ``` prefix to define foreground colors like ```css fg-white ```.
+Use the ```fg-*``` prefix to define foreground colors like ```fg-white```.
 
 #### Background
 
-Use the ```css bg-* ``` prefix to define background colors like ```css bg-white ```.
+Use the ```bg-*``` prefix to define background colors like ```bg-white```.
 
 #### Outlines
 
-Use the ```css ol-* ``` prefix to define outline colors like ```css ol-white ```.
+Use the ```ol-*``` prefix to define outline colors like ```ol-white```.
 
 #### Borders
 
-Use the ```css bd-* ``` prefix to define border colors like ```css bd-white ```.
+Use the ```bd-*``` prefix to define border colors like ```bd-white```.
 
-#### ```css :hover ```, ```css :focus```, ```css :active```
+#### ```:hover```, ```:focus```, ```:active```
 
-For foreground and borders you can define colors for pseudoclasses like ```css bg-hover-white ```
+For foreground and borders you can define colors for pseudoclasses like ```bg-hover-white```
 
 ### Example
 
