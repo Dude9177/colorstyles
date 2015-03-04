@@ -54,6 +54,9 @@ For foreground and borders you can define colors for pseudoclasses like ```bg-ho
 <div class="fg-white bg-blue bg-hover-darkBlue">White text with blue background. On hover the Background changes to dark blue.</div>
 ```
 
+# Author
+[@dude9177](https://github.com/Dude9177)
+
 # License
 
 The MIT License (MIT)
